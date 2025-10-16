@@ -1,0 +1,15 @@
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\bin\Debug\net9.0\SingletonPrac.exe
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\bin\Debug\net9.0\SingletonPrac.deps.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\bin\Debug\net9.0\SingletonPrac.runtimeconfig.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\bin\Debug\net9.0\SingletonPrac.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\bin\Debug\net9.0\SingletonPrac.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.AssemblyInfoInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.AssemblyInfo.cs
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.csproj.CoreCompileInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.sourcelink.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\refint\SingletonPrac.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\SingletonPrac.genruntimeconfig.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\SingletonPrac\SingletonPrac\obj\Debug\net9.0\ref\SingletonPrac.dll
