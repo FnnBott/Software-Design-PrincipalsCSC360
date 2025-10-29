@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LayersPrac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b74d2f298fe0d1e449a1bb502f3dffea50469d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e44ae581d3c0e22a7b0f6e0b651851d706ba3833")]
 [assembly: System.Reflection.AssemblyProductAttribute("LayersPrac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LayersPrac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
