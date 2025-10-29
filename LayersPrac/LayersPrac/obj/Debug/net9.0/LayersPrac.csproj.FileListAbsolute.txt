@@ -1,0 +1,15 @@
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\bin\Debug\net9.0\LayersPrac.exe
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\bin\Debug\net9.0\LayersPrac.deps.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\bin\Debug\net9.0\LayersPrac.runtimeconfig.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\bin\Debug\net9.0\LayersPrac.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\bin\Debug\net9.0\LayersPrac.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.AssemblyInfoInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.AssemblyInfo.cs
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.csproj.CoreCompileInputs.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.sourcelink.json
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\refint\LayersPrac.dll
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.pdb
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\LayersPrac.genruntimeconfig.cache
+C:\Users\Dtieben\Documents\GitHub\Software-Design-PrincipalsCSC360\LayersPrac\LayersPrac\obj\Debug\net9.0\ref\LayersPrac.dll
